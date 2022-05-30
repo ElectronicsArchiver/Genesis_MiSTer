@@ -36,6 +36,16 @@ There are two versions of region detection.
 
 <br>
 
+### Header Based
+
+A header can specify multiple regions and their <br>
+priority to indicate in what order they are chosen.
+
+*May sometimes not work as not all **ROM**s use* <br>
+*this mechanic, especially in **European** region.*
+
+<br>
+
 ### File Extension
 
 | Type  | Region 
@@ -43,16 +53,6 @@ There are two versions of region detection.
 | `.BIN` | ***JP***
 | `.GEN` | ***US***
 | `.MD`  | ***EU***
-
-<br>
-
-### Header Based
-
-- The header may include several regions.
-- The region will be chosen depending on it's priority.
-
-*May sometimes not work as not all **ROM**s use* <br>
-*this mechanic, especially in **European** region.*
 
 <br>
 <br>
