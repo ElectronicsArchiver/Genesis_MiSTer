@@ -13,13 +13,10 @@ Port of ***[FPGAGen]*** *to the* ***[MiSTer]*** *platform.*
     *Allowed Formats:*   <kbd> BIN </kbd> <kbd> GEN </kbd> <kbd> MD </kbd> 
 
 <br>
-<br>
 
 ## Hotkeys
 
 The following hotkeys reset the region.
-
-<br>
 
 | Key | Region | Type
 |:---:|:------:|:----:
@@ -28,13 +25,10 @@ The following hotkeys reset the region.
 | <kbd> F3 </kbd> | ***EU*** | ***PAL***
 
 <br>
-<br>
 
 ## Auto Region Selection
 
 There are two versions of region detection.
-
-<br>
 
 ### Header Based
 
@@ -43,8 +37,6 @@ priority to indicate in what order they are chosen.
 
 *May sometimes not work as not all **ROM**s use* <br>
 *this mechanic, especially in **European** region.*
-
-<br>
 
 ### File Extension
 
@@ -55,11 +47,8 @@ priority to indicate in what order they are chosen.
 | `.MD`  | ***EU***
 
 <br>
-<br>
 
 ## More Features
-
-<br>
 
 - Option to choose between `YM2612` and `YM3438`
 
