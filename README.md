@@ -38,9 +38,11 @@ There are two versions of region detection.
 
 ### File Extension
 
-`BIN`  🠖  **JP** <br>
-`GEN`  🠖  **US** <br>
-`MD`         🠖  **EU**
+| Type  | Region 
+|:-----:|:------:
+| `.BIN` | ***JP***
+| `.GEN` | ***US***
+| `.MD`  | ***EU***
 
 <br>
 
