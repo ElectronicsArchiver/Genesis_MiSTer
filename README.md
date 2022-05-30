@@ -1,6 +1,6 @@
-# Genesis MiSTer    [![Badge License]][License]    [![Badge Port]][Port]
+# Genesis MiSTer
 
-Port of ***[SEGA Megadrive / Genesis]*** *to the* ***[MiSTer]*** *platform.*
+Port of ***[FPGAGen]*** *to the* ***[MiSTer]*** *platform.*
 
 <br>
 
@@ -94,14 +94,5 @@ priority to indicate in what order they are chosen.
 
 <!----------------------------------------------------------------------------->
 
-[SEGA Megadrive / Genesis]: https://en.wikipedia.org/wiki/Sega_Genesis
+[FPGAGen]: https://github.com/Torlus/fpgagen
 [MiSTer]: https://github.com/MiSTer-devel/Main_MiSTer/wiki
-[Port]: https://github.com/Torlus/fpgagen
-
-[License]: LICENSE
-
-
-<!--------------------------------{ Badges }----------------------------------->
-
-[Badge License]: https://img.shields.io/badge/License-GPL_3-blue.svg?style=for-the-badge
-[Badge Port]: https://img.shields.io/badge/Port_Of-FPGAGen-EF2D5E.svg?style=for-the-badge
